@@ -15,7 +15,13 @@ h2{
     color: #808080;
 }
 
-h1,h2{
+h3 {
+    font-size: 24;
+    font-weight: 400;
+    color: #808080;
+}
+
+h1,h2, h3{
     text-align: center;
     text-transform: uppercase;
 }
